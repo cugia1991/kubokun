@@ -14,7 +14,7 @@ Type | Spec | Status
 Model Name      | Gigabyte B650I Aorus Ultra  | ✅
 CPU              | AMD Ryzen™ 9 7950x CPU | ✅
 Dedicated GPU | AMD Radeon™ RX 6600XT | ✅
-RAM           | 16 GB 3200 MHz DDR4 | ✅
+RAM           | 64GB 5200MHz DDR5 | ✅
 Wi-Fi             | Original has been replaced with Fenvi BCM94360NG | ✅
 Ethernet          | Intel i225-V | ✅
 Audio       | Realtek USB 2.0  | ✅
