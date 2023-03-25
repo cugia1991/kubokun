@@ -4,8 +4,6 @@
 
 
 ## Screenshots
-
-<img width="282" alt="Screenshot 2023-03-25 at 12 52 31" src="https://user-images.githubusercontent.com/107351037/227695471-91065cbc-411e-4166-a8b1-079433ca5622.png">
 <img width="1025" alt="Screenshot 2023-03-25 at 12 52 15" src="https://user-images.githubusercontent.com/107351037/227695480-82122cda-1620-456e-a325-e9dbbf70fd95.png">
 <img width="1352" alt="Screenshot 2023-03-25 at 12 54 01" src="https://user-images.githubusercontent.com/107351037/227695484-6e4a5d8f-8c42-42d5-ad9e-1e97381b1d1c.png">
 
