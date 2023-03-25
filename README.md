@@ -17,8 +17,8 @@ Model Name      | Gigabyte B650I Aorus Ultra  | ✅
 CPU              | AMD Ryzen™ 9 7950x CPU | ✅
 Dedicated GPU | AMD Radeon™ RX 6600XT | ✅
 RAM           | 16 GB 3200 MHz DDR4 | ✅
-Wi-Fi             | Fenvi BCM94360NG | ✅
-Ethernet          | Intel I225-v | ✅
+Wi-Fi             | Original has been replaced with Fenvi BCM94360NG | ✅
+Ethernet          | Intel i225-V | ✅
 Audio       | Realtek USB 2.0  | ✅
 
 ## macOS Update History
@@ -56,7 +56,7 @@ Type 2 and select your **config.plist**, then type 3 and type **Macpro7,1**
 #### Changing your CPU name
 
 If you CPU is not **AMD Ryzen™ 9 7950X**, 
-Change the kernel patch to reflect the number of physical CPU cores in your processor;
+Change the kernel patch to reflect the number of physical CPU cores in your processor follow this guide https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html#kernel;
 <img width="2200" alt="Screenshot 2023-03-25 at 13 22 35" src="https://user-images.githubusercontent.com/107351037/227695864-ba970cf4-6627-4966-92fc-cf07956e78b8.png">
 If using a 2, 4, or 6 core CPU, change ProcessorType to 1537 as shown
 If using a CPU with 8 or more cores, set ProcessorType to 3841 as shown
