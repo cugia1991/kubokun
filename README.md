@@ -74,3 +74,4 @@ Remove boot-argument agdpmod=pikera if using RX 550, 560, 570, 580, Vega 56, Veg
 - [yusufklncc](https://github.com/yusufklncc) for README template.
 - And anyone else that helped to develop and improve hackintoshing.
 - @CaseySJ for Ryzen 7000 patchs
+- @CorpNewt for Gygabyte patch 
