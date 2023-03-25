@@ -47,6 +47,13 @@ AMD VT-d
 
 ### Pre-Installation
 Enter BIOS - Load Default Settings - Disable iGPU 
+![230325045701](https://user-images.githubusercontent.com/107351037/227697218-1242e76e-13ac-4b2b-b2b9-027f2e1bf391.png)
+![230325045641](https://user-images.githubusercontent.com/107351037/227697226-489c60dc-d20c-485d-b11b-c52a4b547689.png)
+![230325045637](https://user-images.githubusercontent.com/107351037/227697227-e9eba514-3e5c-4650-b3a9-7c0fd40447f6.png)
+![230325045619](https://user-images.githubusercontent.com/107351037/227697228-890d7587-6e10-4c39-9f99-52cc83d5ea6f.png)
+![230325045607](https://user-images.githubusercontent.com/107351037/227697232-745616ce-a976-42f6-94a4-986e92804b53.png)
+![230325045542](https://user-images.githubusercontent.com/107351037/227697236-955a676f-1423-4482-abe1-93ef07f4bec6.png)
+
 
 #### Changing your SMBIOS data
 
