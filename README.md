@@ -21,7 +21,7 @@ Audio       | Realtek USB 2.0  | ✅
 
 ## macOS Update History
 
-- ✅ macOS Monterey 13.0
+- ✅ macOS Ventura 13.0
 - ✅ macOS Ventura 13.2.1
 - ✅ macOS Ventura 13.3
 ## What's working
